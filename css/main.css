@@ -1,0 +1,18 @@
+.jumbotron
+{
+    background-color: cadetblue;
+    color: white;
+}
+
+footer{
+    background-color: wheat;
+}
+.nav{
+    background-color: #303036;
+}
+
+
+.card-producto{
+    flex: 1 200px;
+    padding: 10px;
+}
